@@ -39,8 +39,8 @@ As AWS offer a free tier, this shouldn't cost you anything unless you amend the 
 First clone the repository into your home directory and follow the steps.
 
   ```bash
-  git clone https://github.com/ABZ-Aaron/Reddit-API-Pipeline.git
-  cd Reddit-API-Pipeline
+  git clone https://github.com/Richiio/RedditAPI.git
+  cd RedditAPI
   ```
 
 1. [Overview](instructions/overview.md)
