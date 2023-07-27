@@ -26,7 +26,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 [<img src="https://github.com/Richiio/RedditAPI/blob/main/images/GDS-Dashboard.png">]
 
-* Final output from Google Data Studio. Link [here](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18). Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
+* Final output from Google Data Studio. Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
 
 ## Setup
 
