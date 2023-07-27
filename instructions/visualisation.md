@@ -18,7 +18,7 @@ Feel free to use the default table in Redshift (i.e. reddit) or the newly transf
 
 You can now feel free to create some visualisations. Some tutorial/guides [here](https://support.google.com/datastudio/answer/6283323?hl=en). Here's an example of mine:
 
-[<img src="https://github.com/Richiio/Reddit-API-Pipeline/blob/master/images/GDS-Dashboard.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
+[<img src="https://github.com/Richiio/Reddit-API-Pipeline/blob/master/images/GDS-Dashboard.png" width=70% height=70%>]
 
 You can then publicly share your report by navigating to Share > Manage access.
 
