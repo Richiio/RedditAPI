@@ -12,7 +12,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Architecture
 
-<img src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/workflow.png" width=70% height=70%>
+<img src="https://github.com/Richiio/RedditAPI/blob/master/images/workflow.png" width=70% height=70%>
 
 1. Extract data using [Reddit API](https://www.reddit.com/dev/api/)
 1. Load into [AWS S3](https://aws.amazon.com/s3/)
